@@ -26,14 +26,14 @@ Sample Output
 3. Select "stock_dataset.csv" when prompted
 4. The candlestick chart will be generated
 
-💡 Insights
+ Insights
 
 -  Shows the opening and closing price movement
 -  Identifies upward and downward price movements
 -  Helps understand stock price trends over time
 -  Candlestick visualization provides a clear view of daily price behavior
 
-🛠️ Tools Used
+Tools Used
 
 - R
 - RStudio
